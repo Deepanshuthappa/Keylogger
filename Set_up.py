@@ -5,7 +5,7 @@ This script uses setuptools to package and distribute the keylogger_project.
 It defines the package metadata, dependencies, entry points, and other configuration
 needed for installation and distribution.
 
-For more information, visit: https://github.com/yourusername/keylogger_project
+For more information, visit: https://github.com/Deepanshuthappa/keyloggerpython.git
 """
 
 from setuptools import setup, find_packages
@@ -30,7 +30,7 @@ setup(
     url='https://github.com/yourusername/keylogger_project',  # Replace with your actual GitHub repository URL
     classifiers=[
         'Programming Language :: Python :: 3',
-        'License :: OSI Approved :: apache License',
+        'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
     ],
     python_requires='>=3.6',
