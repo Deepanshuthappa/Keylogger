@@ -33,6 +33,5 @@ fi
 echo "Installing the package..."
 pip install .
 
-
 # Notify the user 
 echo "Installation complete. You can now use the 'keylogger' command."
