@@ -1,6 +1,6 @@
 # Keylogger Project
 
-This project is a keylogger package for educational purposes. It logs keystrokes and saves them to a file.
+IThis is a Keylogger tool that security analysts could use to understand how keylogging strokes works and enhance forensic analysis techniques. It logs keystrokes and saves them to a file.
 
 ## Installation
 
