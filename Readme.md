@@ -1,6 +1,6 @@
 # Keylogger Project
 
-This is a Keylogger tool that security analysts could use to understand how keylogging strokes works and enhance forensic analysis techniques. It logs keystrokes and saves them to a file.
+This is a Keylogger tool built on python that security analysts could use to understand how keylogging strokes works and enhance forensic analysis techniques. It logs keystrokes and saves them to a file.
 
 ## Installation
 
